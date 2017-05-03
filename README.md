@@ -1,0 +1,2 @@
+# ContestCode
+Different contest code
